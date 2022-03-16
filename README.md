@@ -1,4 +1,4 @@
 # my-repo
 Test repository
 
-Github is east!
+Github is easy!
