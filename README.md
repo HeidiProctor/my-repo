@@ -1,4 +1,4 @@
 # my-repo
 Test repository
 
-Github is confusing!
+Github is east!
